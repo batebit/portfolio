@@ -1,32 +1,40 @@
 # portfolio
 List of references of projects developed by Batebit
 
-https://www.youtube.com/watch?v=m4q6iD513pY
+## Instrumentos Musicais Digitais
 
-https://www.youtube.com/watch?v=iYb6aJRPUJ0
+* [TumTá - Helder Vasconcelos - em processo de criação do novo solo](https://www.youtube.com/watch?v=m4q6iD513pY)
 
-https://www.youtube.com/watch?v=fqflY91NYtM
+* [Piso Interativo - Dingbat Cobogó + BateBit Artesania Digital](https://www.youtube.com/watch?v=1CIzkmmBoWI)
 
-https://www.youtube.com/watch?v=1CIzkmmBoWI
+* [Gira Performance at 2019 NIME Conference - Porto Alegre, Brasil](https://www.youtube.com/watch?v=gAzkibwCDwM)
 
-https://www.youtube.com/watch?v=_kTkg6RyL3k
+* [Probatio](https://probat.io)
 
-https://www.youtube.com/watch?v=l2HnE3txKdc
+* [Probatio 0.1: making of](https://www.youtube.com/watch?v=C0zjRJ_1lv8)
 
-https://www.youtube.com/watch?v=FDaQaRtYl2I
+* [Controlador Wow](https://www.youtube.com/watch?v=l2HnE3txKdc)
 
-https://www.youtube.com/watch?v=gAzkibwCDwM
+## Abertura do Carnaval do Recife 2018
 
-https://www.youtube.com/watch?v=C0zjRJ_1lv8
+* [Reportagem NETV sobre abertura do Carnaval de Recife 2018](https://globoplay.globo.com/v/6490247/programa/)
 
-https://www.youtube.com/watch?v=lXWIkNzJOwc
+* [Batebit na Abertura do Carnaval do Recife 2018 - vídeo do Porto Digital](https://www.youtube.com/watch?v=FDaQaRtYl2I)
 
-https://www.youtube.com/watch?v=iipTSA1eL0o
+## Diálogos entre a Lutheria Digital e a Música Popular Pernambucana
 
-https://www.youtube.com/watch?v=RLenX9AVz3w
+* [Batebit entrevista Neilton](https://www.youtube.com/watch?v=iYb6aJRPUJ0)
 
-https://www.youtube.com/watch?v=aBHHtni6eaY
+* [Batebit entrevista Siba](https://www.youtube.com/watch?v=fqflY91NYtM)
 
-https://www.youtube.com/watch?v=42FrieWW63U
+* [Avaliação do Giromin com Jam da Silva](https://www.youtube.com/watch?v=lXWIkNzJOwc)
 
-https://www.youtube.com/watch?v=psLjM6EXNDc
+* [Avaliação do Pandivá com Jam da Silva](https://www.youtube.com/watch?v=iipTSA1eL0o)
+
+* [Avaliação do Giromin com Carlos Amarelo](https://www.youtube.com/watch?v=RLenX9AVz3w)
+
+* [Avaliação do Pandivá com Helder Vasconcelos e Raphael Costa](https://www.youtube.com/watch?v=aBHHtni6eaY)
+
+* [Avaliação DJ Dolores](https://www.youtube.com/watch?v=42FrieWW63U)
+
+* [Jam Session Batebit](https://www.youtube.com/watch?v=psLjM6EXNDc)
